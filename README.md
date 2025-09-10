@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TaczoS yoo
+- 👋 Hi, I’m Shayan alias - Taczo
 - 👀 I’m interested in ... backend development and IoTs
 - 🌱 I’m currently learning ... Java, its web framework, CSS, JavaScript, React.
 
