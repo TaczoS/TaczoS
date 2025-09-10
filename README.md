@@ -2,8 +2,7 @@
 - 👀 I’m interested in ... backend development and IoTs
 - 🌱 I’m currently learning ... Java, its web framework, CSS, JavaScript, React.
 
-- 📫 How to reach me ... idk
-- 😄 Pronouns: ... He/Him
+-
 
 
 <!---
