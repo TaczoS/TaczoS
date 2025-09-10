@@ -2,6 +2,7 @@
 - I’m interested in ... backend development and IoTs
 - I know .. python integration with SQL, html, css, JavaScript.
 - I’m currently learning ... Java, its web framework, React.
+- Others - C/C++, working with microcontrollers and sensors.
 
 
 
